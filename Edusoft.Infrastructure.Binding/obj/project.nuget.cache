@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8oyohgOtNpdsmdSVaPygCh+YBoVZ34Nzbph5Bxqy/3YxGjdMEn5srMwSGZMfHc5mFKsjVQJ1NJxY1VrEC2qfQ==",
+  "dgSpecHash": "Z53nSBcAt+QYd8unDEHrROeNz4gpVrOaDxXoRPQljoNpvrIulkie4e4X2GzTD9eUL5QkUqaciIlJgabdkoaepw==",
   "success": true,
-  "projectFilePath": "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
+  "projectFilePath": "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUNG7510\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HUNG7510\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {}
+    "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {}
   },
   "projects": {
-    "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {
+    "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj",
+        "projectUniqueName": "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj",
         "projectName": "EduSoft.core.Domain",
-        "projectPath": "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj",
+        "projectPath": "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj",
         "packagesPath": "C:\\Users\\HUNG7510\\.nuget\\packages\\",
-        "outputPath": "D:\\NCKHPj\\EduSoft.core.Domain\\obj\\",
+        "outputPath": "D:\\NCKHSourceCode\\EduSoft.core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HUNG7510\\AppData\\Roaming\\NuGet\\NuGet.Config",

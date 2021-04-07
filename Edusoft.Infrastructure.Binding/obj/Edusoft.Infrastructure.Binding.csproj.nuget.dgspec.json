@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj": {}
+    "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj": {}
   },
   "projects": {
-    "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj": {
+    "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
+        "projectUniqueName": "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
         "projectName": "Edusoft.Infrastructure.Binding",
-        "projectPath": "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
+        "projectPath": "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\Edusoft.Infrastructure.Binding.csproj",
         "packagesPath": "C:\\Users\\HUNG7510\\.nuget\\packages\\",
-        "outputPath": "D:\\NCKHPj\\Edusoft.Infrastructure.Binding\\obj\\",
+        "outputPath": "D:\\NCKHSourceCode\\Edusoft.Infrastructure.Binding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HUNG7510\\AppData\\Roaming\\NuGet\\NuGet.Config",

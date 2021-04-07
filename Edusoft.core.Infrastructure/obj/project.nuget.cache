@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpRoq3nmTgUb9xei9iQpZgvufO7zINGnrcWwWdMuDAsaUKuLDlry5NPt/Z8HNDf5F8tt3aOUk+VcYhrwAFhb+g==",
+  "dgSpecHash": "ifzOhzZn66rql+ekLnWMG9GN0PkVNZj/+g5e8ApkSJi/RamADvn6QqtWWCKB8BXwKtKbx49BLREAnH6snkH8lA==",
   "success": true,
-  "projectFilePath": "D:\\NCKHPj\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
+  "projectFilePath": "D:\\NCKHSourceCode\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUNG7510\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\HUNG7510\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",

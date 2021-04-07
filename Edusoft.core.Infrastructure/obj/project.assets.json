@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NCKHPj\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
+      "projectUniqueName": "D:\\NCKHSourceCode\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
       "projectName": "Edusoft.core.Infrastructure",
-      "projectPath": "D:\\NCKHPj\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
+      "projectPath": "D:\\NCKHSourceCode\\Edusoft.core.Infrastructure\\Edusoft.core.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\HUNG7510\\.nuget\\packages\\",
-      "outputPath": "D:\\NCKHPj\\Edusoft.core.Infrastructure\\obj\\",
+      "outputPath": "D:\\NCKHSourceCode\\Edusoft.core.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HUNG7510\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -730,8 +730,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {
-              "projectPath": "D:\\NCKHPj\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj"
+            "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj": {
+              "projectPath": "D:\\NCKHSourceCode\\EduSoft.core.Domain\\EduSoft.core.Domain.csproj"
             }
           }
         }
