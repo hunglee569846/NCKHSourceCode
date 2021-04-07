@@ -1,0 +1,9 @@
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\bin\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.deps.json
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\bin\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.dll
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\bin\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.pdb
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.csprojAssemblyReference.cache
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.AssemblyInfoInputs.cache
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.AssemblyInfo.cs
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.csproj.CoreCompileInputs.cache
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.dll
+D:\NCKHSourceCode\Edusoft.Infrastructure.Binding\obj\Release\netcoreapp3.1\Edusoft.Infrastructure.Binding.pdb
