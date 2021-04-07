@@ -1,0 +1,9 @@
+D:\NCKHPj\EduSoft.core.Domain\bin\Debug\netcoreapp3.1\EduSoft.core.Domain.deps.json
+D:\NCKHPj\EduSoft.core.Domain\bin\Debug\netcoreapp3.1\EduSoft.core.Domain.dll
+D:\NCKHPj\EduSoft.core.Domain\bin\Debug\netcoreapp3.1\EduSoft.core.Domain.pdb
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.csprojAssemblyReference.cache
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.AssemblyInfoInputs.cache
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.AssemblyInfo.cs
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.csproj.CoreCompileInputs.cache
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.dll
+D:\NCKHPj\EduSoft.core.Domain\obj\Debug\netcoreapp3.1\EduSoft.core.Domain.pdb

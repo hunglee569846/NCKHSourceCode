@@ -1,0 +1,12 @@
+D:\NCKHPj\Edusoft.core.Infrastructure\bin\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.deps.json
+D:\NCKHPj\Edusoft.core.Infrastructure\bin\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.dll
+D:\NCKHPj\Edusoft.core.Infrastructure\bin\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.pdb
+D:\NCKHPj\Edusoft.core.Infrastructure\bin\Debug\netcoreapp3.1\EduSoft.core.Domain.dll
+D:\NCKHPj\Edusoft.core.Infrastructure\bin\Debug\netcoreapp3.1\EduSoft.core.Domain.pdb
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.csprojAssemblyReference.cache
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.AssemblyInfoInputs.cache
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.AssemblyInfo.cs
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.csproj.CopyComplete
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.dll
+D:\NCKHPj\Edusoft.core.Infrastructure\obj\Debug\netcoreapp3.1\Edusoft.core.Infrastructure.pdb
