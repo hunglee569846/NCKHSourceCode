@@ -13,7 +13,7 @@
   },
   "profiles": {
     "IIS Express": {
-      "commandName": "IIS",
+      "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "index.html",
       "environmentVariables": {
@@ -31,7 +31,7 @@
       "applicationUrl": "http://localhost:50051/"
     },
     "IIS": {
-      "commandName": "IISExpress",
+      "commandName": "IIS",
       "launchBrowser": true,
       "launchUrl": "api/",
       "environmentVariables": {

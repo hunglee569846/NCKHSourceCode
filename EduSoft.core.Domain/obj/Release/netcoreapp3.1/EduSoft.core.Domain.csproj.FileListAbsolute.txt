@@ -1,0 +1,9 @@
+D:\NCKHSourceCode\EduSoft.core.Domain\bin\Release\netcoreapp3.1\EduSoft.core.Domain.deps.json
+D:\NCKHSourceCode\EduSoft.core.Domain\bin\Release\netcoreapp3.1\EduSoft.core.Domain.dll
+D:\NCKHSourceCode\EduSoft.core.Domain\bin\Release\netcoreapp3.1\EduSoft.core.Domain.pdb
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.csprojAssemblyReference.cache
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.AssemblyInfoInputs.cache
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.AssemblyInfo.cs
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.csproj.CoreCompileInputs.cache
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.dll
+D:\NCKHSourceCode\EduSoft.core.Domain\obj\Release\netcoreapp3.1\EduSoft.core.Domain.pdb
