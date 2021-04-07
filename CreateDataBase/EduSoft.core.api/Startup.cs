@@ -33,7 +33,7 @@ namespace EduSoft.core.api
                     //TermsOfService = "http://daotao.humg.edu.vn/",
                     Version = "v1",
                     Title = "NCKH-QLDA API",
-                    Description = "CÔNG TY CỔ PHẦN PHẦN MỀM HUMG",
+                    Description = "HUMG-Edusoft API",
                     Contact = new OpenApiContact
                     {
                         Name = "HUMG",
